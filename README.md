@@ -13,7 +13,8 @@ you can change this information in settings
 ##### then you can run script with `server`  
 ### tutorial
 1.**root directory** : the directory thet your codes have been there
-2.**port : look at this address `localhost:`**
+2.**port : look at this address `localhost:8080`**  
+the number after the culon
 
 
 
