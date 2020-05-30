@@ -18,7 +18,6 @@ you can change this information in settings
 3.`chmod +x server`  
 4.`./server`  
 ##### you can move `server` file to bin directory for easy use
-`mv server /bin`
 ##### then you can run script with `server`  
 ___
 ### tutorial
