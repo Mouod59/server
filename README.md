@@ -20,7 +20,7 @@ you can change this information in settings
 then you can run script with `server`**  
 ___
 ### tutorial
-1.**root directory** : the directory thet your codes have been there  
+1.**root directory** : the directory that your codes have been there  
 2.**port : look at this address `localhost:8080`** the number after ` : ` is port  
 
 ### if you found bug please contact us
