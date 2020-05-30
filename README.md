@@ -1,6 +1,6 @@
 # server
 this is simple script that you can start `php` , `python` , `node.js` , `mysql database` server.  
-![alt screenshot](IMG_20200530_121442_788.jpg)
+![alt screenshot](IMG_20200530_121442_788.jpg)  
 once you start server , for next time it won't ask you for _root directory_ and _port_ and it use your first time information.
 you can change this information in settings
 ### installation
@@ -12,9 +12,9 @@ you can change this information in settings
 `mv server /bin`
 ##### then you can run script with `server`  
 ### tutorial
-1.**root directory** : the directory thet your codes have been there
+1.**root directory** : the directory thet your codes have been there  
 2.**port : look at this address `localhost:8080`**  
-the number after the culon
+the number after the ` : ` is the port  
 
 
 
