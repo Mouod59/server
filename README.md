@@ -1,5 +1,5 @@
 # server
-this is simple script that you can start `php` , `python` , `node.js` , `mysql database` server.  
+this is simple script that you can start `php` , `python` , `node.js` , `mysql database` server.  <br>
 ![alt screenshot](IMG_20200530_153808_136.jpg)  
 ![alt screenshots](IMG_20200530_153842_618.jpg)  
 once you start server , for next time it won't ask you for _root directory_ and _port_ and it use your first time information.
