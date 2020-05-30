@@ -1,6 +1,6 @@
 # server
-this is simple script that you can start `php` , `python` , `node.js` , `mysql database` server.
-()
+this is simple script that you can start `php` , `python` , `node.js` , `mysql database` server.  
+(IMG_20200530_121442_788.jpg)
 ### installation
 1.`git clone https://github.com/Mouod59/server.git`  
 2.`cd server`  
